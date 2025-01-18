@@ -1,0 +1,16 @@
+.App { text-align: center; } 
+.App-header { display: flex; 
+  justify-content: space-between; 
+  background-color: #282c34; 
+  padding: 20px; color: white; } 
+.App-nav ul { list-style: none; 
+    display: flex;
+     justify-content: space-around; 
+     padding: 0; } 
+.App-nav li { margin: 0 10px; } 
+.banner { padding: 50px;  /* Add your background image URL here */
+   background-size: cover; color: white; } 
+.banner-buttons button { margin: 10px; padding: 10px 20px; font-size: 16px; } 
+.restaurant-info { padding: 20px; }
+
+

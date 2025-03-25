@@ -40,7 +40,7 @@ export function Reviews() {
             <div className="row g-4">
 
             {reviews.map((review, index) => (
-                <div className="col-lg-6">
+            <div className="col-lg-6">
                     <Card className="h-100 shadow">
                         <CardBody>
                             <div className="p-4">
